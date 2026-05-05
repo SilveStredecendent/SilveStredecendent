@@ -1,27 +1,37 @@
-# Olá, eu sou o Herbert de Sousa Santos 
+# Olá, eu sou o Herbert de Sousa Santos
 
-Sou um Desenvolvedor Full Stack e Mobile apaixonado por transformar problemas complexos em soluções elegantes e eficientes. Meu foco está na construção de aplicações escaláveis utilizando o ecossistema Java e tecnologias modernas de frontend e mobile.
+Sou um estudante de Engenharia de Software focado em dominar o ecossistema Java e o desenvolvimento de soluções que realmente resolvam problemas. Acredito que a tecnologia é uma ferramenta para transformar ideias em realidade, e por isso busco ir além do código, focando em arquitetura e boas práticas.
 
-## Sobre mim
--  Estudante de Engenharia de Software focado em boas práticas e Clean Code.
--  Experiência em desenvolvimento de APIs robustas com **Spring Boot** e interfaces dinâmicas com **React**.
--  Criando experiências mobile fluidas e performáticas com **Flutter**.
--  Domínio de versionamento de código com Git (reset, clean, stash e gestão de branches).
+---
 
-##  Tecnologias e Ferramentas
-- **Backend:** Java, Spring Boot, Spring Security.
-- **Frontend & Mobile:** React, Flutter, JavaScript (ES6+).
-- **Banco de Dados & Ferramentas:** Estruturas de dados avançadas, Git, GitHub.
+## No que estou trabalhando
 
-##  Projetos em Destaque
-*(Dica: Escolha seus 2 melhores projetos e descreva o problema que eles resolvem, como sugere sua apresentação)*
+Meu foco principal hoje é o desenvolvimento **Full Stack** e **Mobile**. Atualmente, estou explorando:
 
-1. **[Nome do Projeto]**: [Breve descrição do problema real que ele resolve].
-2. **[Nome do Projeto]**: [Tecnologias utilizadas e seu papel no desenvolvimento].
+- **Backend:** Java com Quarkus e Spring Boot. Tenho grande interesse em padrões de projeto como **Arquitetura Hexagonal** e **DDD (Domain-Driven Design)** para criar sistemas desacoplados e fáceis de manter.
+- **Frontend & Mobile:** Construindo interfaces modernas com React e experiências mobile nativas com Flutter.
+- **Engenharia:** Refinando o uso de Git para um fluxo de trabalho profissional (stash, clean, reset) e documentação de sistemas.
 
-##  Como me encontrar
+---
+
+## Projeto em Destaque: ConnectHub (Backend)
+
+Participei do desenvolvimento do núcleo desta plataforma colaborativa acadêmica. O diferencial deste projeto não é apenas o código, mas a **arquitetura**:
+- **Arquitetura Hexagonal (Ports & Adapters):** Isolamos a lógica de negócio das tecnologias externas, facilitando testes e evolução.
+- **Foco em Gamificação:** Implementação de módulos de XP e níveis para incentivar o aprendizado.
+- **Tecnologia de Ponta:** Desenvolvido com Quarkus para performance supersônica.
+
+*Você pode conferir como organizei os domínios e portas de entrada no repositório do projeto aqui no meu GitHub!*
+
+---
+
+## Contato
+
 - **LinkedIn:** [Herbert de Sousa Santos](https://www.linkedin.com/in/herbert-de-sousa-santos-99825b294/)
 - **E-mail:** [herbertdesousasantos31@gmail.com](mailto:herbertdesousasantos31@gmail.com)
 
 ---
-*"Aproveite a jornada e nunca pare de construir."*
+*Este perfil é atualizado constantemente * 
+
+> *"Eu estou sempre fazendo aquilo que não sou capaz, numa tentativa de aprender como fazê-lo."* — Vincent van Gogh
+
