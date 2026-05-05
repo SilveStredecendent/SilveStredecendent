@@ -31,7 +31,6 @@ Participei do desenvolvimento do núcleo desta plataforma colaborativa acadêmic
 - **E-mail:** [herbertdesousasantos31@gmail.com](mailto:herbertdesousasantos31@gmail.com)
 
 ---
-*Este perfil é atualizado constantemente * 
 
 > *"Eu estou sempre fazendo aquilo que não sou capaz, numa tentativa de aprender como fazê-lo."* — Vincent van Gogh
 
